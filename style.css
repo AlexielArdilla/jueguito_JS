@@ -1,0 +1,16 @@
+h1 {
+    padding: 20px;
+    margin: 20px;
+    background-color: blueviolet;
+    color: cornsilk;
+    text-align: center;
+}
+
+p {
+    padding: 20px;
+    margin: 20px;
+    background-color: lightblue;
+    color: black;
+    text-align: center;
+    font-size: larger;
+}
